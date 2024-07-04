@@ -600,7 +600,7 @@ legend {
 }
 
 .portfolio_wrap .port-img .imges-wrap .img2 {
-    background: #f4f4f4 url(../../images//Starkbucks\ Coffee\ Korea.png) no-repeat 0 0;
+    background: url('/images/Starkbucks\ Coffee\ Korea.png') no-repeat 0 0;
     background-size: cover;
 }
 
