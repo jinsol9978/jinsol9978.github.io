@@ -603,7 +603,14 @@ legend {
     background: url('/images/Starkbucks\ Coffee\ Korea.png') no-repeat 0 0;
     background-size: cover;
 }
-
+.portfolio_wrap .port-img .imges-wrap .img3 {
+    background: url('/images/burbbery\ app.png') no-repeat 0 0;
+    background-size: cover;
+}
+.portfolio_wrap .port-img .imges-wrap .img4 {
+    background: url('/images/banner_1.jpeg') no-repeat 0 0;
+    background-size: cover;
+}
 .port-texts {
     position: relative;
     width: 40%;
